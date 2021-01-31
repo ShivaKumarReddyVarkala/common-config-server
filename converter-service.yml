@@ -1,0 +1,5 @@
+limit-service:
+  min: 100
+  max: 999999
+  limit: 100000
+  limitCurrency: INR
